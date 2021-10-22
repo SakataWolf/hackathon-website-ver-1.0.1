@@ -1,0 +1,57 @@
+#barra li{
+	border: none;
+	padding: 5px;
+}
+#barra li a:hover{
+	color: white;
+}
+h1{
+	opacity: 0%;
+	width: 0px;
+	height: 0px;
+}
+#trailer{
+	background-image: linear-gradient(#2648DE,#26A9DE);
+	height: 20%;
+	text-align: center;
+}
+h5{
+	color: white;
+	background-color: #333333;
+	opacity: 75%;
+	border-radius: 10px;
+}
+.carrosel{
+	color: #DEFFF5;
+	background-color: #2648DE;
+	border-radius: 10px;
+	opacity: 70%;
+}
+h4{
+	color: lightblue;
+}
+h2{
+	color: white;
+}
+#card3{
+	position: right;
+}
+#conchas{
+	text-align: center;
+	width: 50%;
+	border: solid 5px;
+	border-color: white; 
+}
+.poll{
+	text-align: center;
+}
+#corpo{
+	background-image: linear-gradient(#2648DE,#26A9DE);
+}
+#footer{
+	background-color: white;
+	text-align: center;
+}
+#bondinho{
+	text-align: center;
+}
